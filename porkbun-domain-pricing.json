@@ -1,0 +1,5649 @@
+{
+  "status": "SUCCESS",
+  "pricing": {
+    "1": {
+      "registration": "1.34",
+      "renewal": "16.79",
+      "transfer": "16.79",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "35": {
+      "registration": "21.93",
+      "renewal": "21.93",
+      "transfer": "21.93",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "49": {
+      "registration": "51.80",
+      "renewal": "51.80",
+      "transfer": "51.80",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "77": {
+      "registration": "7.52",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "247": {
+      "registration": "103.30",
+      "renewal": "103.30",
+      "transfer": "103.30",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "420247": {
+      "registration": "21.94",
+      "renewal": "16.79",
+      "transfer": "16.79",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "666888": {
+      "registration": "27.09",
+      "renewal": "27.09",
+      "transfer": "27.09",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ws": {
+      "registration": "5.94",
+      "renewal": "20.91",
+      "transfer": "20.91",
+      "coupons": []
+    },
+    "mx": {
+      "registration": "39.28",
+      "renewal": "39.28",
+      "transfer": "39.28",
+      "coupons": []
+    },
+    "com.mx": {
+      "registration": "22.22",
+      "renewal": "22.22",
+      "transfer": "22.22",
+      "coupons": []
+    },
+    "org.mx": {
+      "registration": "20.14",
+      "renewal": "20.14",
+      "transfer": "20.14",
+      "coupons": []
+    },
+    "as": {
+      "registration": "52.83",
+      "renewal": "52.83",
+      "transfer": "52.83",
+      "coupons": []
+    },
+    "gg": {
+      "registration": "51.80",
+      "renewal": "51.80",
+      "transfer": "51.80",
+      "coupons": []
+    },
+    "co.gg": {
+      "registration": "40.85",
+      "renewal": "40.85",
+      "transfer": "40.85",
+      "coupons": []
+    },
+    "net.gg": {
+      "registration": "40.85",
+      "renewal": "40.85",
+      "transfer": "36.35",
+      "coupons": []
+    },
+    "org.gg": {
+      "registration": "36.35",
+      "renewal": "40.85",
+      "transfer": "36.35",
+      "coupons": []
+    },
+    "je": {
+      "registration": "51.80",
+      "renewal": "51.80",
+      "transfer": "51.80",
+      "coupons": []
+    },
+    "co.je": {
+      "registration": "40.85",
+      "renewal": "40.85",
+      "transfer": "40.85",
+      "coupons": []
+    },
+    "net.je": {
+      "registration": "40.85",
+      "renewal": "40.85",
+      "transfer": "40.85",
+      "coupons": []
+    },
+    "org.je": {
+      "registration": "36.35",
+      "renewal": "40.85",
+      "transfer": "36.35",
+      "coupons": []
+    },
+    "xp": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "workshop": {
+      "registration": "27.09",
+      "renewal": "27.09",
+      "transfer": "27.09",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "txt": {
+      "registration": "0.00",
+      "renewal": "0.00",
+      "transfer": "0.00",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "0z": {
+      "registration": "42.52",
+      "renewal": "16.77",
+      "transfer": "16.77",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "0zebra": {
+      "registration": "3.63",
+      "renewal": "8.20",
+      "transfer": "8.20",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "0zero": {
+      "registration": "4.77",
+      "renewal": "9.34",
+      "transfer": "9.34",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "0zone": {
+      "registration": "5.91",
+      "renewal": "10.48",
+      "transfer": "10.48",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "0zoo": {
+      "registration": "7.05",
+      "renewal": "11.63",
+      "transfer": "11.63",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "3dom": {
+      "registration": "11.11",
+      "renewal": "11.63",
+      "transfer": "11.63",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "4sale": {
+      "registration": "21.94",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "80proof": {
+      "registration": "2.47",
+      "renewal": "2.47",
+      "transfer": "2.47",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "8kb": {
+      "registration": "3.40",
+      "renewal": "7.52",
+      "transfer": "7.52",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "a2": {
+      "registration": "4.43",
+      "renewal": "4.43",
+      "transfer": "4.43",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "aby": {
+      "registration": "30.18",
+      "renewal": "30.18",
+      "transfer": "30.18",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "airdrop": {
+      "registration": "16.79",
+      "renewal": "16.79",
+      "transfer": "16.79",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "airy": {
+      "registration": "7.52",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "aj": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ak": {
+      "registration": "104.33",
+      "renewal": "27.09",
+      "transfer": "27.09",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ane": {
+      "registration": "61.07",
+      "renewal": "61.07",
+      "transfer": "61.07",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "anytime": {
+      "registration": "12.66",
+      "renewal": "12.66",
+      "transfer": "12.66",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "aotearoa": {
+      "registration": "27.09",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "api": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "appt": {
+      "registration": "6.49",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "area": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "areas": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ark": {
+      "registration": "9.58",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "articles": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "aspect": {
+      "registration": "7.52",
+      "renewal": "13.70",
+      "transfer": "13.70",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "aware": {
+      "registration": "10.61",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "beach": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "bestaltcoin": {
+      "registration": "6.49",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "best-selling": {
+      "registration": "2.37",
+      "renewal": "22.97",
+      "transfer": "22.97",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "bills": {
+      "registration": "16.79",
+      "renewal": "16.79",
+      "transfer": "16.79",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "biometric": {
+      "registration": "25.03",
+      "renewal": "31.20",
+      "transfer": "31.20",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "bop": {
+      "registration": "7.52",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "boredapes": {
+      "registration": "9.73",
+      "renewal": "9.73",
+      "transfer": "9.73",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "bpm": {
+      "registration": "10.61",
+      "renewal": "8.55",
+      "transfer": "8.55",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "brand": {
+      "registration": "16.79",
+      "renewal": "16.79",
+      "transfer": "16.79",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "breaker": {
+      "registration": "7.52",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "c0m": {
+      "registration": "21.93",
+      "renewal": "11.63",
+      "transfer": "11.63",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "c": {
+      "registration": "1.34",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "catgirl": {
+      "registration": "11.64",
+      "renewal": "27.09",
+      "transfer": "27.09",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "charge": {
+      "registration": "10.61",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "chic": {
+      "registration": "52.83",
+      "renewal": "52.83",
+      "transfer": "52.83",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "coming": {
+      "registration": "11.64",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "consultancy": {
+      "registration": "6.48",
+      "renewal": "11.63",
+      "transfer": "11.63",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "cov": {
+      "registration": "7.52",
+      "renewal": "7.52",
+      "transfer": "7.52",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "cracker": {
+      "registration": "7.52",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "crap": {
+      "registration": "7.52",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "cuba": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "cycle": {
+      "registration": "21.88",
+      "renewal": "16.74",
+      "transfer": "16.74",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "dan": {
+      "registration": "30.16",
+      "renewal": "14.72",
+      "transfer": "14.72",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "dd": {
+      "registration": "4.43",
+      "renewal": "4.43",
+      "transfer": "4.43",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "defi": {
+      "registration": "63.12",
+      "renewal": "63.12",
+      "transfer": "63.12",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "degen": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "den": {
+      "registration": "17.82",
+      "renewal": "17.82",
+      "transfer": "17.82",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "devlog": {
+      "registration": "11.64",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "diva": {
+      "registration": "11.63",
+      "renewal": "11.63",
+      "transfer": "11.63",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "dn": {
+      "registration": "5.46",
+      "renewal": "14.73",
+      "transfer": "14.73",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "doge": {
+      "registration": "6.49",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "dogecoin": {
+      "registration": "3.40",
+      "renewal": "3.40",
+      "transfer": "3.40",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "dojo": {
+      "registration": "3.39",
+      "renewal": "3.39",
+      "transfer": "3.39",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "dookie": {
+      "registration": "3.40",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ds": {
+      "registration": "5.46",
+      "renewal": "2.37",
+      "transfer": "2.37",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "dw3": {
+      "registration": "4.43",
+      "renewal": "4.43",
+      "transfer": "4.43",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "dweb": {
+      "registration": "41.50",
+      "renewal": "26.06",
+      "transfer": "26.06",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "dy": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "eak": {
+      "registration": "16.79",
+      "renewal": "16.79",
+      "transfer": "16.79",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ela": {
+      "registration": "16.79",
+      "renewal": "16.79",
+      "transfer": "16.79",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ep": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "estates": {
+      "registration": "21.94",
+      "renewal": "16.79",
+      "transfer": "16.79",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ext": {
+      "registration": "21.94",
+      "renewal": "16.79",
+      "transfer": "16.79",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ez": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "fam": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "fcb": {
+      "registration": "6.48",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "fcl": {
+      "registration": "16.79",
+      "renewal": "16.79",
+      "transfer": "16.79",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "fd": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "fe": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "follow": {
+      "registration": "2.37",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "foreigners": {
+      "registration": "9.57",
+      "renewal": "9.57",
+      "transfer": "9.57",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "friendly": {
+      "registration": "7.52",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "fullon": {
+      "registration": "5.46",
+      "renewal": "4.43",
+      "transfer": "4.43",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "fundraising": {
+      "registration": "6.49",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "fw": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "gad": {
+      "registration": "7.52",
+      "renewal": "7.52",
+      "transfer": "7.52",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "gains": {
+      "registration": "7.52",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "gamestudio": {
+      "registration": "3.40",
+      "renewal": "3.40",
+      "transfer": "3.40",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "gators": {
+      "registration": "11.63",
+      "renewal": "11.63",
+      "transfer": "11.63",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ger": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "goatrance": {
+      "registration": "5.46",
+      "renewal": "4.43",
+      "transfer": "4.43",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "gon": {
+      "registration": "19.88",
+      "renewal": "19.88",
+      "transfer": "19.88",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "goodie": {
+      "registration": "9.58",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "goody": {
+      "registration": "9.58",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "graduate": {
+      "registration": "7.52",
+      "renewal": "7.52",
+      "transfer": "7.52",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "guidance": {
+      "registration": "5.46",
+      "renewal": "5.46",
+      "transfer": "5.46",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "gul": {
+      "registration": "7.52",
+      "renewal": "7.52",
+      "transfer": "7.52",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "hairtransplant": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "hire": {
+      "registration": "52.82",
+      "renewal": "32.22",
+      "transfer": "32.22",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "hits": {
+      "registration": "8.02",
+      "renewal": "8.02",
+      "transfer": "8.02",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "hnm": {
+      "registration": "12.67",
+      "renewal": "12.67",
+      "transfer": "12.67",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "holders": {
+      "registration": "10.61",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "holding": {
+      "registration": "3.91",
+      "renewal": "9.58",
+      "transfer": "9.58",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ib": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ide": {
+      "registration": "7.52",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ik": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "imm": {
+      "registration": "5.46",
+      "renewal": "9.58",
+      "transfer": "9.58",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "innovator": {
+      "registration": "6.49",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ior": {
+      "registration": "7.52",
+      "renewal": "9.58",
+      "transfer": "9.58",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "island": {
+      "registration": "51.80",
+      "renewal": "29.15",
+      "transfer": "29.15",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ism": {
+      "registration": "21.94",
+      "renewal": "32.23",
+      "transfer": "32.23",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "iw": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ize": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ja": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "job": {
+      "registration": "51.80",
+      "renewal": "32.23",
+      "transfer": "32.23",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "js": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "kdd": {
+      "registration": "3.40",
+      "renewal": "7.52",
+      "transfer": "7.52",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "keys": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "kl": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ks": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "kv": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "lawexpert": {
+      "registration": "33.26",
+      "renewal": "17.82",
+      "transfer": "17.82",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "lawsuit": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "lean": {
+      "registration": "21.94",
+      "renewal": "32.23",
+      "transfer": "32.23",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "legendary": {
+      "registration": "2.37",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "lli": {
+      "registration": "12.67",
+      "renewal": "12.67",
+      "transfer": "12.67",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "lo": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "longhorns": {
+      "registration": "11.63",
+      "renewal": "11.63",
+      "transfer": "11.63",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "lulz": {
+      "registration": "9.57",
+      "renewal": "9.57",
+      "transfer": "9.57",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "lz": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "mamak": {
+      "registration": "6.49",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "mansion": {
+      "registration": "16.79",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "matching": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ment": {
+      "registration": "5.46",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ments": {
+      "registration": "10.61",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ming": {
+      "registration": "8.55",
+      "renewal": "8.55",
+      "transfer": "8.55",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "montage": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "moonkid": {
+      "registration": "9.78",
+      "renewal": "9.78",
+      "transfer": "9.78",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "moons": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "mrly": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "mtl": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "nah": {
+      "registration": "7.52",
+      "renewal": "7.52",
+      "transfer": "7.52",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "nfts": {
+      "registration": "6.48",
+      "renewal": "6.48",
+      "transfer": "6.48",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "nouns": {
+      "registration": "9.73",
+      "renewal": "9.73",
+      "transfer": "9.73",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ob": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "od": {
+      "registration": "6.49",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "og": {
+      "registration": "6.49",
+      "renewal": "4.43",
+      "transfer": "4.43",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "onlinenews": {
+      "registration": "6.49",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "oof": {
+      "registration": "78.58",
+      "renewal": "78.58",
+      "transfer": "78.58",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ost": {
+      "registration": "32.23",
+      "renewal": "32.23",
+      "transfer": "32.23",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ostberlin": {
+      "registration": "2.37",
+      "renewal": "2.37",
+      "transfer": "2.37",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ot": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "owbo": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "pal": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "payoff": {
+      "registration": "10.61",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "performer": {
+      "registration": "11.64",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "petlover": {
+      "registration": "2.37",
+      "renewal": "32.23",
+      "transfer": "32.23",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "petsupply": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "pharma": {
+      "registration": "62.10",
+      "renewal": "62.10",
+      "transfer": "62.10",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "picture": {
+      "registration": "5.46",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "places": {
+      "registration": "21.88",
+      "renewal": "16.74",
+      "transfer": "16.74",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "plug-in": {
+      "registration": "2.37",
+      "renewal": "22.97",
+      "transfer": "22.97",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "policeman": {
+      "registration": "516.22",
+      "renewal": "52.78",
+      "transfer": "52.78",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ports": {
+      "registration": "8.55",
+      "renewal": "8.55",
+      "transfer": "8.55",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "posting": {
+      "registration": "7.52",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "proudly": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "project": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "proofs": {
+      "registration": "10.61",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "psytrance": {
+      "registration": "8.55",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "pun": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "pv": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "qn": {
+      "registration": "5.46",
+      "renewal": "7.52",
+      "transfer": "7.52",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "qth": {
+      "registration": "13.70",
+      "renewal": "13.70",
+      "transfer": "13.70",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "rd": {
+      "registration": "5.46",
+      "renewal": "14.73",
+      "transfer": "14.73",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "reach": {
+      "registration": "5.46",
+      "renewal": "4.43",
+      "transfer": "4.43",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "readings": {
+      "registration": "2.37",
+      "renewal": "22.97",
+      "transfer": "22.97",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "recorder": {
+      "registration": "7.52",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "remember": {
+      "registration": "9.57",
+      "renewal": "9.57",
+      "transfer": "9.57",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "researcher": {
+      "registration": "5.46",
+      "renewal": "5.46",
+      "transfer": "5.46",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "reseller": {
+      "registration": "9.58",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "resources": {
+      "registration": "21.94",
+      "renewal": "16.79",
+      "transfer": "16.79",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "rim": {
+      "registration": "7.52",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "risk": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "rl": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "rmx": {
+      "registration": "10.61",
+      "renewal": "8.55",
+      "transfer": "8.55",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "rn": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "runner": {
+      "registration": "104.33",
+      "renewal": "52.83",
+      "transfer": "52.83",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "rust": {
+      "registration": "11.64",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "saf": {
+      "registration": "7.52",
+      "renewal": "12.67",
+      "transfer": "12.67",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "sales": {
+      "registration": "16.74",
+      "renewal": "16.74",
+      "transfer": "16.74",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "sats": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "savory": {
+      "registration": "6.49",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "say": {
+      "registration": "11.63",
+      "renewal": "11.63",
+      "transfer": "11.63",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "scam": {
+      "registration": "7.52",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "schooling": {
+      "registration": "22.97",
+      "renewal": "12.67",
+      "transfer": "12.67",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "secrets": {
+      "registration": "32.23",
+      "renewal": "32.23",
+      "transfer": "32.23",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "settings": {
+      "registration": "10.61",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "sey": {
+      "registration": "4.43",
+      "renewal": "7.52",
+      "transfer": "7.52",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "shark": {
+      "registration": "2.36",
+      "renewal": "9.57",
+      "transfer": "9.57",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "shortcut": {
+      "registration": "2.88",
+      "renewal": "2.88",
+      "transfer": "2.88",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "shot": {
+      "registration": "32.23",
+      "renewal": "32.23",
+      "transfer": "32.23",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "sig": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "signals": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "snyder": {
+      "registration": "5.97",
+      "renewal": "5.97",
+      "transfer": "5.97",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "spooky": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ssl": {
+      "registration": "5.46",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "startup": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "streetcredit": {
+      "registration": "21.93",
+      "renewal": "21.93",
+      "transfer": "21.93",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "suh": {
+      "registration": "13.70",
+      "renewal": "13.70",
+      "transfer": "13.70",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "tar": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "tears": {
+      "registration": "10.60",
+      "renewal": "9.57",
+      "transfer": "9.57",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "techno": {
+      "registration": "10.61",
+      "renewal": "8.55",
+      "transfer": "8.55",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "teck": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ter": {
+      "registration": "5.46",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "tilt": {
+      "registration": "4.43",
+      "renewal": "7.52",
+      "transfer": "7.52",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "tni": {
+      "registration": "2.37",
+      "renewal": "4.42",
+      "transfer": "4.42",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "token": {
+      "registration": "27.09",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "traction": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "trekking": {
+      "registration": "21.94",
+      "renewal": "32.23",
+      "transfer": "32.23",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "tricks": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "troll": {
+      "registration": "4.43",
+      "renewal": "4.43",
+      "transfer": "4.43",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "tx": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "uch": {
+      "registration": "8.55",
+      "renewal": "8.55",
+      "transfer": "8.55",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ud": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ue": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "unit": {
+      "registration": "6.48",
+      "renewal": "11.63",
+      "transfer": "11.63",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "universe": {
+      "registration": "11.63",
+      "renewal": "11.63",
+      "transfer": "11.63",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ur": {
+      "registration": "5.46",
+      "renewal": "14.73",
+      "transfer": "14.73",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "use": {
+      "registration": "9.37",
+      "renewal": "4.43",
+      "transfer": "4.43",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "ush": {
+      "registration": "11.63",
+      "renewal": "11.63",
+      "transfer": "11.63",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "viewer": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "visit": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "visualization": {
+      "registration": "2.37",
+      "renewal": "32.23",
+      "transfer": "32.23",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "vitamin": {
+      "registration": "32.23",
+      "renewal": "32.23",
+      "transfer": "32.23",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "vlog": {
+      "registration": "5.46",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "vrmmo": {
+      "registration": "9.58",
+      "renewal": "20.91",
+      "transfer": "20.91",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "vvip": {
+      "registration": "3.40",
+      "renewal": "3.40",
+      "transfer": "3.40",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "wala": {
+      "registration": "2.88",
+      "renewal": "2.88",
+      "transfer": "2.88",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "wave": {
+      "registration": "21.93",
+      "renewal": "19.87",
+      "transfer": "19.87",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "wc": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "we3": {
+      "registration": "4.43",
+      "renewal": "4.43",
+      "transfer": "4.43",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "web5": {
+      "registration": "10.61",
+      "renewal": "3.40",
+      "transfer": "3.40",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "webdesigner": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "websites": {
+      "registration": "16.74",
+      "renewal": "16.74",
+      "transfer": "16.74",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "westernaustralia": {
+      "registration": "7.52",
+      "renewal": "12.67",
+      "transfer": "12.67",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "wh": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "won": {
+      "registration": "11.63",
+      "renewal": "11.63",
+      "transfer": "11.63",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "workspace": {
+      "registration": "21.94",
+      "renewal": "21.94",
+      "transfer": "21.94",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "wq": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "wr": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "wwwroot": {
+      "registration": "2.37",
+      "renewal": "32.23",
+      "transfer": "32.23",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "xad": {
+      "registration": "2.88",
+      "renewal": "2.88",
+      "transfer": "2.88",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "xn--btc-6r6a": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "xn--dei": {
+      "registration": "11.63",
+      "renewal": "9.57",
+      "transfer": "9.57",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "xn--eth-6r6a": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "xn--l47h": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "xn--t-eha": {
+      "registration": "28.12",
+      "renewal": "22.97",
+      "transfer": "22.97",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "xof": {
+      "registration": "6.49",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "xr": {
+      "registration": "11.64",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "y": {
+      "registration": "20.78",
+      "renewal": "20.78",
+      "transfer": "20.78",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "yb": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "yo": {
+      "registration": "4.43",
+      "renewal": "4.43",
+      "transfer": "4.43",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "yon": {
+      "registration": "7.52",
+      "renewal": "7.52",
+      "transfer": "7.52",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "yxz": {
+      "registration": "3.40",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "yzx": {
+      "registration": "3.40",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "z": {
+      "registration": "20.78",
+      "renewal": "20.78",
+      "transfer": "20.78",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "zen": {
+      "registration": "1.34",
+      "renewal": "11.64",
+      "transfer": "11.64",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "zp": {
+      "registration": "17.69",
+      "renewal": "17.69",
+      "transfer": "17.69",
+      "coupons": [],
+      "specialType": "handshake"
+    },
+    "de": {
+      "registration": "2.90",
+      "renewal": "4.07",
+      "transfer": "4.07",
+      "coupons": []
+    },
+    "eu": {
+      "registration": "5.46",
+      "renewal": "5.16",
+      "transfer": "5.46",
+      "coupons": []
+    },
+    "in": {
+      "registration": "7.83",
+      "renewal": "7.83",
+      "transfer": "7.83",
+      "coupons": []
+    },
+    "co.in": {
+      "registration": "5.80",
+      "renewal": "5.80",
+      "transfer": "5.80",
+      "coupons": []
+    },
+    "net.in": {
+      "registration": "5.80",
+      "renewal": "5.80",
+      "transfer": "5.80",
+      "coupons": []
+    },
+    "org.in": {
+      "registration": "5.80",
+      "renewal": "5.80",
+      "transfer": "5.80",
+      "coupons": []
+    },
+    "firm.in": {
+      "registration": "5.80",
+      "renewal": "5.80",
+      "transfer": "5.80",
+      "coupons": []
+    },
+    "gen.in": {
+      "registration": "5.80",
+      "renewal": "5.80",
+      "transfer": "5.80",
+      "coupons": []
+    },
+    "ind.in": {
+      "registration": "5.80",
+      "renewal": "5.80",
+      "transfer": "5.80",
+      "coupons": []
+    },
+    "bayern": {
+      "registration": "30.80",
+      "renewal": "30.80",
+      "transfer": "30.80",
+      "coupons": []
+    },
+    "nrw": {
+      "registration": "39.29",
+      "renewal": "39.29",
+      "transfer": "39.29",
+      "coupons": []
+    },
+    "tube": {
+      "registration": "21.11",
+      "renewal": "21.61",
+      "transfer": "21.61",
+      "coupons": []
+    },
+    "tel": {
+      "registration": "9.78",
+      "renewal": "9.78",
+      "transfer": "9.78",
+      "coupons": []
+    },
+    "top": {
+      "registration": "1.63",
+      "renewal": "4.63",
+      "transfer": "4.63",
+      "coupons": []
+    },
+    "wang": {
+      "registration": "4.12",
+      "renewal": "5.87",
+      "transfer": "5.87",
+      "coupons": []
+    },
+    "nz": {
+      "registration": "14.98",
+      "renewal": "14.92",
+      "transfer": "14.92",
+      "coupons": []
+    },
+    "co.nz": {
+      "registration": "12.99",
+      "renewal": "12.99",
+      "transfer": "12.27",
+      "coupons": []
+    },
+    "net.nz": {
+      "registration": "14.99",
+      "renewal": "14.99",
+      "transfer": "12.27",
+      "coupons": []
+    },
+    "org.nz": {
+      "registration": "14.99",
+      "renewal": "14.99",
+      "transfer": "12.27",
+      "coupons": []
+    },
+    "ac.nz": {
+      "registration": "16.68",
+      "renewal": "17.98",
+      "transfer": "16.68",
+      "coupons": []
+    },
+    "geek.nz": {
+      "registration": "16.40",
+      "renewal": "16.40",
+      "transfer": "16.40",
+      "coupons": []
+    },
+    "gen.nz": {
+      "registration": "16.40",
+      "renewal": "16.40",
+      "transfer": "16.40",
+      "coupons": []
+    },
+    "kiwi.nz": {
+      "registration": "16.40",
+      "renewal": "16.40",
+      "transfer": "16.40",
+      "coupons": []
+    },
+    "maori.nz": {
+      "registration": "16.68",
+      "renewal": "17.98",
+      "transfer": "16.68",
+      "coupons": []
+    },
+    "school.nz": {
+      "registration": "16.68",
+      "renewal": "17.98",
+      "transfer": "16.68",
+      "coupons": []
+    },
+    "ph": {
+      "registration": "41.50",
+      "renewal": "42.57",
+      "transfer": "19.99",
+      "coupons": []
+    },
+    "com.ph": {
+      "registration": "41.50",
+      "renewal": "45.99",
+      "transfer": "23.47",
+      "coupons": []
+    },
+    "net.ph": {
+      "registration": "41.50",
+      "renewal": "45.99",
+      "transfer": "23.47",
+      "coupons": []
+    },
+    "org.ph": {
+      "registration": "41.50",
+      "renewal": "45.99",
+      "transfer": "23.47",
+      "coupons": []
+    },
+    "channel": {
+      "registration": "5.66",
+      "renewal": "10.81",
+      "transfer": "10.81",
+      "coupons": []
+    },
+    "ing": {
+      "registration": "10.81",
+      "renewal": "10.81",
+      "transfer": "10.81",
+      "coupons": []
+    },
+    "meme": {
+      "registration": "10.81",
+      "renewal": "10.81",
+      "transfer": "10.81",
+      "coupons": []
+    },
+    "foo": {
+      "registration": "5.66",
+      "renewal": "10.81",
+      "transfer": "10.81",
+      "coupons": []
+    },
+    "zip": {
+      "registration": "5.66",
+      "renewal": "10.81",
+      "transfer": "10.81",
+      "coupons": []
+    },
+    "mov": {
+      "registration": "5.66",
+      "renewal": "10.81",
+      "transfer": "10.81",
+      "coupons": []
+    },
+    "nexus": {
+      "registration": "10.81",
+      "renewal": "10.81",
+      "transfer": "10.81",
+      "coupons": []
+    },
+    "dad": {
+      "registration": "10.81",
+      "renewal": "10.81",
+      "transfer": "10.81",
+      "coupons": []
+    },
+    "phd": {
+      "registration": "21.11",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "prof": {
+      "registration": "21.11",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "esq": {
+      "registration": "21.11",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "boo": {
+      "registration": "10.81",
+      "renewal": "10.81",
+      "transfer": "10.81",
+      "coupons": []
+    },
+    "rsvp": {
+      "registration": "10.81",
+      "renewal": "10.81",
+      "transfer": "10.81",
+      "coupons": []
+    },
+    "day": {
+      "registration": "10.81",
+      "renewal": "10.81",
+      "transfer": "10.81",
+      "coupons": []
+    },
+    "new": {
+      "registration": "412.46",
+      "renewal": "412.46",
+      "transfer": "412.46",
+      "coupons": []
+    },
+    "app": {
+      "registration": "5.66",
+      "renewal": "14.93",
+      "transfer": "14.93",
+      "coupons": []
+    },
+    "page": {
+      "registration": "10.81",
+      "renewal": "10.81",
+      "transfer": "10.81",
+      "coupons": []
+    },
+    "dev": {
+      "registration": "5.66",
+      "renewal": "12.87",
+      "transfer": "12.87",
+      "coupons": []
+    },
+    "soy": {
+      "registration": "19.05",
+      "renewal": "19.05",
+      "transfer": "19.05",
+      "coupons": []
+    },
+    "how": {
+      "registration": "21.11",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "xn--q9jyb4c": {
+      "registration": "7.43",
+      "renewal": "7.43",
+      "transfer": "7.43",
+      "coupons": []
+    },
+    "shop": {
+      "registration": "2.06",
+      "renewal": "31.41",
+      "transfer": "31.41",
+      "coupons": []
+    },
+    "com": {
+      "registration": "11.08",
+      "renewal": "11.08",
+      "transfer": "11.08",
+      "coupons": []
+    },
+    "net": {
+      "registration": "12.52",
+      "renewal": "12.52",
+      "transfer": "12.52",
+      "coupons": []
+    },
+    "org": {
+      "registration": "6.88",
+      "renewal": "10.74",
+      "transfer": "10.74",
+      "coupons": []
+    },
+    "charity": {
+      "registration": "5.99",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "foundation": {
+      "registration": "5.99",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "gives": {
+      "registration": "5.99",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "ngo": {
+      "registration": "15.96",
+      "renewal": "15.96",
+      "transfer": "15.96",
+      "coupons": []
+    },
+    "ong": {
+      "registration": "15.96",
+      "renewal": "15.96",
+      "transfer": "15.96",
+      "coupons": []
+    },
+    "giving": {
+      "registration": "5.99",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "help": {
+      "registration": "1.54",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "lat": {
+      "registration": "1.54",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "game": {
+      "registration": "309.47",
+      "renewal": "309.47",
+      "transfer": "309.47",
+      "coupons": []
+    },
+    "audio": {
+      "registration": "103.50",
+      "renewal": "103.50",
+      "transfer": "103.50",
+      "coupons": []
+    },
+    "guitars": {
+      "registration": "103.50",
+      "renewal": "103.50",
+      "transfer": "103.50",
+      "coupons": []
+    },
+    "christmas": {
+      "registration": "31.41",
+      "renewal": "31.41",
+      "transfer": "31.41",
+      "coupons": []
+    },
+    "diet": {
+      "registration": "103.50",
+      "renewal": "103.50",
+      "transfer": "103.50",
+      "coupons": []
+    },
+    "flowers": {
+      "registration": "103.50",
+      "renewal": "103.50",
+      "transfer": "103.50",
+      "coupons": []
+    },
+    "hosting": {
+      "registration": "309.47",
+      "renewal": "309.47",
+      "transfer": "309.47",
+      "coupons": []
+    },
+    "pics": {
+      "registration": "1.54",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "mom": {
+      "registration": "1.54",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "lol": {
+      "registration": "1.54",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "bh": {
+      "registration": "41.29",
+      "renewal": "41.29",
+      "transfer": "41.29",
+      "coupons": []
+    },
+    "london": {
+      "registration": "14.32",
+      "renewal": "28.13",
+      "transfer": "28.13",
+      "coupons": []
+    },
+    "sbs": {
+      "registration": "1.28",
+      "renewal": "12.87",
+      "transfer": "12.87",
+      "coupons": []
+    },
+    "dealer": {
+      "registration": "51.64",
+      "renewal": "2,060.25",
+      "transfer": "2,060.25",
+      "coupons": []
+    },
+    "inc": {
+      "registration": "51.64",
+      "renewal": "2,060.25",
+      "transfer": "2,060.25",
+      "coupons": []
+    },
+    "qpon": {
+      "registration": "1.54",
+      "renewal": "9.66",
+      "transfer": "9.66",
+      "coupons": []
+    },
+    "cfd": {
+      "registration": "1.28",
+      "renewal": "12.87",
+      "transfer": "12.87",
+      "coupons": []
+    },
+    "autos": {
+      "registration": "1.54",
+      "renewal": "12.98",
+      "transfer": "12.98",
+      "coupons": []
+    },
+    "homes": {
+      "registration": "1.54",
+      "renewal": "12.98",
+      "transfer": "12.98",
+      "coupons": []
+    },
+    "motorcycles": {
+      "registration": "1.54",
+      "renewal": "12.98",
+      "transfer": "12.98",
+      "coupons": []
+    },
+    "boats": {
+      "registration": "1.54",
+      "renewal": "12.98",
+      "transfer": "12.98",
+      "coupons": []
+    },
+    "yachts": {
+      "registration": "1.54",
+      "renewal": "12.98",
+      "transfer": "12.98",
+      "coupons": []
+    },
+    "storage": {
+      "registration": "515.45",
+      "renewal": "515.45",
+      "transfer": "515.45",
+      "coupons": []
+    },
+    "security": {
+      "registration": "2,060.25",
+      "renewal": "2,060.25",
+      "transfer": "2,060.25",
+      "coupons": []
+    },
+    "protection": {
+      "registration": "2,060.25",
+      "renewal": "2,060.25",
+      "transfer": "2,060.25",
+      "coupons": []
+    },
+    "beauty": {
+      "registration": "1.54",
+      "renewal": "12.98",
+      "transfer": "12.98",
+      "coupons": []
+    },
+    "skin": {
+      "registration": "1.54",
+      "renewal": "12.98",
+      "transfer": "12.98",
+      "coupons": []
+    },
+    "hair": {
+      "registration": "1.54",
+      "renewal": "12.98",
+      "transfer": "12.98",
+      "coupons": []
+    },
+    "makeup": {
+      "registration": "1.54",
+      "renewal": "12.98",
+      "transfer": "12.98",
+      "coupons": []
+    },
+    "quest": {
+      "registration": "1.54",
+      "renewal": "12.98",
+      "transfer": "12.98",
+      "coupons": []
+    },
+    "bond": {
+      "registration": "3.60",
+      "renewal": "12.87",
+      "transfer": "12.87",
+      "coupons": []
+    },
+    "cars": {
+      "registration": "2,060.25",
+      "renewal": "2,060.25",
+      "transfer": "2,060.25",
+      "coupons": []
+    },
+    "car": {
+      "registration": "2,060.25",
+      "renewal": "2,060.25",
+      "transfer": "2,060.25",
+      "coupons": []
+    },
+    "auto": {
+      "registration": "2,060.25",
+      "renewal": "2,060.25",
+      "transfer": "2,060.25",
+      "coupons": []
+    },
+    "build": {
+      "registration": "26.26",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "cam": {
+      "registration": "1.80",
+      "renewal": "14.93",
+      "transfer": "14.93",
+      "coupons": []
+    },
+    "luxury": {
+      "registration": "26.26",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "cyou": {
+      "registration": "1.53",
+      "renewal": "12.87",
+      "transfer": "12.87",
+      "coupons": []
+    },
+    "uno": {
+      "registration": "4.63",
+      "renewal": "15.96",
+      "transfer": "15.96",
+      "coupons": []
+    },
+    "saarland": {
+      "registration": "22.21",
+      "renewal": "22.21",
+      "transfer": "22.21",
+      "coupons": []
+    },
+    "desi": {
+      "registration": "12.87",
+      "renewal": "12.87",
+      "transfer": "12.87",
+      "coupons": []
+    },
+    "fo": {
+      "registration": "51.14",
+      "renewal": "51.14",
+      "transfer": "51.14",
+      "coupons": []
+    },
+    "baby": {
+      "registration": "1.54",
+      "renewal": "52.01",
+      "transfer": "52.01",
+      "coupons": []
+    },
+    "monster": {
+      "registration": "1.54",
+      "renewal": "12.98",
+      "transfer": "12.98",
+      "coupons": []
+    },
+    "tickets": {
+      "registration": "360.97",
+      "renewal": "360.97",
+      "transfer": "360.97",
+      "coupons": []
+    },
+    "college": {
+      "registration": "10.30",
+      "renewal": "52.01",
+      "transfer": "52.01",
+      "coupons": []
+    },
+    "ooo": {
+      "registration": "1.54",
+      "renewal": "21.10",
+      "transfer": "21.10",
+      "coupons": []
+    },
+    "icu": {
+      "registration": "2.06",
+      "renewal": "12.87",
+      "transfer": "12.87",
+      "coupons": []
+    },
+    "best": {
+      "registration": "3.59",
+      "renewal": "15.96",
+      "transfer": "15.96",
+      "coupons": []
+    },
+    "ceo": {
+      "registration": "10.01",
+      "renewal": "88.05",
+      "transfer": "88.05",
+      "coupons": []
+    },
+    "store": {
+      "registration": "2.57",
+      "renewal": "41.71",
+      "transfer": "41.71",
+      "coupons": []
+    },
+    "art": {
+      "registration": "2.12",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "fun": {
+      "registration": "2.57",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "radio.fm": {
+      "registration": "12.67",
+      "renewal": "12.67",
+      "transfer": "12.67",
+      "coupons": []
+    },
+    "radio.am": {
+      "registration": "12.67",
+      "renewal": "12.67",
+      "transfer": "12.67",
+      "coupons": []
+    },
+    "fm": {
+      "registration": "87.85",
+      "renewal": "87.85",
+      "transfer": "87.85",
+      "coupons": []
+    },
+    "pw": {
+      "registration": "4.43",
+      "renewal": "15.76",
+      "transfer": "15.76",
+      "coupons": []
+    },
+    "xyz": {
+      "registration": "2.06",
+      "renewal": "12.98",
+      "transfer": "12.98",
+      "coupons": []
+    },
+    "host": {
+      "registration": "4.63",
+      "renewal": "77.75",
+      "transfer": "77.75",
+      "coupons": []
+    },
+    "press": {
+      "registration": "4.63",
+      "renewal": "61.28",
+      "transfer": "61.28",
+      "coupons": []
+    },
+    "space": {
+      "registration": "1.13",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "website": {
+      "registration": "1.13",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "fans": {
+      "registration": "8.75",
+      "renewal": "8.75",
+      "transfer": "8.75",
+      "coupons": []
+    },
+    "online": {
+      "registration": "1.96",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "rent": {
+      "registration": "10.30",
+      "renewal": "52.01",
+      "transfer": "52.01",
+      "coupons": []
+    },
+    "site": {
+      "registration": "1.96",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "tech": {
+      "registration": "8.75",
+      "renewal": "46.86",
+      "transfer": "46.86",
+      "coupons": []
+    },
+    "theatre": {
+      "registration": "515.45",
+      "renewal": "515.45",
+      "transfer": "515.45",
+      "coupons": []
+    },
+    "uk": {
+      "registration": "5.66",
+      "renewal": "5.66",
+      "transfer": "0.00",
+      "coupons": []
+    },
+    "co.uk": {
+      "registration": "5.66",
+      "renewal": "5.66",
+      "transfer": "0.00",
+      "coupons": []
+    },
+    "org.uk": {
+      "registration": "5.66",
+      "renewal": "5.66",
+      "transfer": "0.00",
+      "coupons": []
+    },
+    "me.uk": {
+      "registration": "5.66",
+      "renewal": "5.66",
+      "transfer": "0.00",
+      "coupons": []
+    },
+    "wales": {
+      "registration": "10.16",
+      "renewal": "9.60",
+      "transfer": "9.60",
+      "coupons": []
+    },
+    "cymru": {
+      "registration": "10.16",
+      "renewal": "10.16",
+      "transfer": "10.16",
+      "coupons": []
+    },
+    "jobs": {
+      "registration": "114.98",
+      "renewal": "119.98",
+      "transfer": "99.17",
+      "coupons": []
+    },
+    "bot": {
+      "registration": "52.01",
+      "renewal": "52.01",
+      "transfer": "52.01",
+      "coupons": []
+    },
+    "deal": {
+      "registration": "32.44",
+      "renewal": "32.44",
+      "transfer": "32.44",
+      "coupons": []
+    },
+    "now": {
+      "registration": "31.41",
+      "renewal": "32.44",
+      "transfer": "32.44",
+      "coupons": []
+    },
+    "moi": {
+      "registration": "22.14",
+      "renewal": "22.14",
+      "transfer": "22.14",
+      "coupons": []
+    },
+    "free": {
+      "registration": "31.41",
+      "renewal": "32.44",
+      "transfer": "32.44",
+      "coupons": []
+    },
+    "hot": {
+      "registration": "41.71",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "spot": {
+      "registration": "21.11",
+      "renewal": "22.14",
+      "transfer": "22.14",
+      "coupons": []
+    },
+    "med": {
+      "registration": "72.61",
+      "renewal": "143.67",
+      "transfer": "143.67",
+      "coupons": []
+    },
+    "taipei": {
+      "registration": "14.98",
+      "renewal": "15.19",
+      "transfer": "14.98",
+      "coupons": []
+    },
+    "tattoo": {
+      "registration": "2.06",
+      "renewal": "31.41",
+      "transfer": "31.41",
+      "coupons": []
+    },
+    "photo": {
+      "registration": "26.26",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "blackfriday": {
+      "registration": "103.50",
+      "renewal": "103.50",
+      "transfer": "103.50",
+      "coupons": []
+    },
+    "tv": {
+      "registration": "26.26",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "design": {
+      "registration": "9.78",
+      "renewal": "41.71",
+      "transfer": "41.71",
+      "coupons": []
+    },
+    "ink": {
+      "registration": "2.06",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "wiki": {
+      "registration": "2.06",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "gay": {
+      "registration": "2.06",
+      "renewal": "28.32",
+      "transfer": "28.32",
+      "coupons": []
+    },
+    "law": {
+      "registration": "82.90",
+      "renewal": "82.90",
+      "transfer": "82.90",
+      "coupons": []
+    },
+    "luxe": {
+      "registration": "12.87",
+      "renewal": "12.87",
+      "transfer": "12.87",
+      "coupons": []
+    },
+    "vip": {
+      "registration": "4.12",
+      "renewal": "5.15",
+      "transfer": "5.15",
+      "coupons": []
+    },
+    "work": {
+      "registration": "2.06",
+      "renewal": "8.75",
+      "transfer": "8.75",
+      "coupons": []
+    },
+    "beer": {
+      "registration": "1.54",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "surf": {
+      "registration": "25.23",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "fashion": {
+      "registration": "25.23",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "fit": {
+      "registration": "2.06",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "horse": {
+      "registration": "25.23",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "rodeo": {
+      "registration": "8.75",
+      "renewal": "8.75",
+      "transfer": "8.75",
+      "coupons": []
+    },
+    "fishing": {
+      "registration": "25.23",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "garden": {
+      "registration": "25.23",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "vodka": {
+      "registration": "25.23",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "wedding": {
+      "registration": "25.23",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "yoga": {
+      "registration": "25.23",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "abogado": {
+      "registration": "21.11",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "boston": {
+      "registration": "15.96",
+      "renewal": "15.96",
+      "transfer": "15.96",
+      "coupons": []
+    },
+    "casa": {
+      "registration": "1.54",
+      "renewal": "6.69",
+      "transfer": "6.69",
+      "coupons": []
+    },
+    "miami": {
+      "registration": "15.96",
+      "renewal": "15.96",
+      "transfer": "15.96",
+      "coupons": []
+    },
+    "cooking": {
+      "registration": "25.23",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "adult": {
+      "registration": "10.81",
+      "renewal": "88.05",
+      "transfer": "88.05",
+      "coupons": []
+    },
+    "porn": {
+      "registration": "10.81",
+      "renewal": "88.05",
+      "transfer": "88.05",
+      "coupons": []
+    },
+    "xxx": {
+      "registration": "10.81",
+      "renewal": "88.05",
+      "transfer": "88.05",
+      "coupons": []
+    },
+    "sex": {
+      "registration": "10.81",
+      "renewal": "88.05",
+      "transfer": "88.05",
+      "coupons": []
+    },
+    "rugby": {
+      "registration": "41.98",
+      "renewal": "42.98",
+      "transfer": "42.49",
+      "coupons": []
+    },
+    "basketball": {
+      "registration": "41.88",
+      "renewal": "42.88",
+      "transfer": "42.88",
+      "coupons": []
+    },
+    "osaka": {
+      "registration": "26.26",
+      "renewal": "26.88",
+      "transfer": "26.68",
+      "coupons": []
+    },
+    "melbourne": {
+      "registration": "40.12",
+      "renewal": "40.12",
+      "transfer": "40.12",
+      "coupons": []
+    },
+    "sydney": {
+      "registration": "40.12",
+      "renewal": "40.12",
+      "transfer": "40.12",
+      "coupons": []
+    },
+    "compare": {
+      "registration": "25.23",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "select": {
+      "registration": "25.23",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "bible": {
+      "registration": "40.68",
+      "renewal": "41.88",
+      "transfer": "41.49",
+      "coupons": []
+    },
+    "courses": {
+      "registration": "28.32",
+      "renewal": "28.32",
+      "transfer": "28.32",
+      "coupons": []
+    },
+    "study": {
+      "registration": "28.32",
+      "renewal": "28.32",
+      "transfer": "28.32",
+      "coupons": []
+    },
+    "moe": {
+      "registration": "13.05",
+      "renewal": "13.05",
+      "transfer": "13.05",
+      "coupons": []
+    },
+    "health": {
+      "registration": "57.16",
+      "renewal": "57.16",
+      "transfer": "57.16",
+      "coupons": []
+    },
+    "sucks": {
+      "registration": "205.46",
+      "renewal": "213.14",
+      "transfer": "213.14",
+      "coupons": []
+    },
+    "one": {
+      "registration": "8.75",
+      "renewal": "20.08",
+      "transfer": "20.08",
+      "coupons": []
+    },
+    "nyc": {
+      "registration": "26.26",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "co": {
+      "registration": "10.61",
+      "renewal": "27.09",
+      "transfer": "27.09",
+      "coupons": []
+    },
+    "us": {
+      "registration": "3.91",
+      "renewal": "7.00",
+      "transfer": "7.00",
+      "coupons": []
+    },
+    "earth": {
+      "registration": "15.96",
+      "renewal": "15.96",
+      "transfer": "15.96",
+      "coupons": []
+    },
+    "biz": {
+      "registration": "5.66",
+      "renewal": "16.99",
+      "transfer": "16.99",
+      "coupons": []
+    },
+    "buzz": {
+      "registration": "2.05",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "men": {
+      "registration": "3.58",
+      "renewal": "5.15",
+      "transfer": "4.15",
+      "coupons": []
+    },
+    "menu": {
+      "registration": "26.96",
+      "renewal": "26.96",
+      "transfer": "26.96",
+      "coupons": []
+    },
+    "club": {
+      "registration": "4.12",
+      "renewal": "13.90",
+      "transfer": "13.90",
+      "coupons": []
+    },
+    "trade": {
+      "registration": "3.58",
+      "renewal": "5.15",
+      "transfer": "4.15",
+      "coupons": []
+    },
+    "bid": {
+      "registration": "3.58",
+      "renewal": "5.15",
+      "transfer": "4.15",
+      "coupons": []
+    },
+    "webcam": {
+      "registration": "10.79",
+      "renewal": "10.79",
+      "transfer": "10.79",
+      "coupons": []
+    },
+    "cricket": {
+      "registration": "21.09",
+      "renewal": "21.09",
+      "transfer": "21.09",
+      "coupons": []
+    },
+    "party": {
+      "registration": "3.58",
+      "renewal": "5.15",
+      "transfer": "4.15",
+      "coupons": []
+    },
+    "science": {
+      "registration": "9.22",
+      "renewal": "9.98",
+      "transfer": "9.98",
+      "coupons": []
+    },
+    "review": {
+      "registration": "6.98",
+      "renewal": "10.15",
+      "transfer": "10.15",
+      "coupons": []
+    },
+    "date": {
+      "registration": "3.58",
+      "renewal": "5.15",
+      "transfer": "4.15",
+      "coupons": []
+    },
+    "faith": {
+      "registration": "6.58",
+      "renewal": "10.09",
+      "transfer": "6.58",
+      "coupons": []
+    },
+    "accountant": {
+      "registration": "21.09",
+      "renewal": "21.09",
+      "transfer": "21.09",
+      "coupons": []
+    },
+    "download": {
+      "registration": "3.58",
+      "renewal": "5.15",
+      "transfer": "4.15",
+      "coupons": []
+    },
+    "loan": {
+      "registration": "3.58",
+      "renewal": "5.15",
+      "transfer": "4.15",
+      "coupons": []
+    },
+    "racing": {
+      "registration": "9.22",
+      "renewal": "10.15",
+      "transfer": "10.15",
+      "coupons": []
+    },
+    "win": {
+      "registration": "3.58",
+      "renewal": "5.15",
+      "transfer": "4.15",
+      "coupons": []
+    },
+    "stream": {
+      "registration": "4.02",
+      "renewal": "5.15",
+      "transfer": "4.15",
+      "coupons": []
+    },
+    "tw": {
+      "registration": "8.55",
+      "renewal": "17.10",
+      "transfer": "17.10",
+      "coupons": []
+    },
+    "game.tw": {
+      "registration": "17.10",
+      "renewal": "17.10",
+      "transfer": "17.10",
+      "coupons": []
+    },
+    "ebiz.tw": {
+      "registration": "17.10",
+      "renewal": "17.10",
+      "transfer": "17.10",
+      "coupons": []
+    },
+    "club.tw": {
+      "registration": "17.10",
+      "renewal": "17.10",
+      "transfer": "17.10",
+      "coupons": []
+    },
+    "eco": {
+      "registration": "59.73",
+      "renewal": "59.73",
+      "transfer": "59.73",
+      "coupons": []
+    },
+    "blog": {
+      "registration": "2.06",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "cc": {
+      "registration": "3.40",
+      "renewal": "8.55",
+      "transfer": "8.55",
+      "coupons": []
+    },
+    "name": {
+      "registration": "7.31",
+      "renewal": "7.31",
+      "transfer": "7.31",
+      "coupons": []
+    },
+    "my": {
+      "registration": "2.37",
+      "renewal": "26.06",
+      "transfer": "26.06",
+      "coupons": []
+    },
+    "diy": {
+      "registration": "4.63",
+      "renewal": "31.41",
+      "transfer": "31.41",
+      "coupons": []
+    },
+    "food": {
+      "registration": "4.63",
+      "renewal": "31.41",
+      "transfer": "31.41",
+      "coupons": []
+    },
+    "living": {
+      "registration": "4.63",
+      "renewal": "31.41",
+      "transfer": "31.41",
+      "coupons": []
+    },
+    "lifestyle": {
+      "registration": "4.63",
+      "renewal": "31.41",
+      "transfer": "31.41",
+      "coupons": []
+    },
+    "vana": {
+      "registration": "2,070.16",
+      "renewal": "2,070.16",
+      "transfer": "2,070.16",
+      "coupons": []
+    },
+    "country": {
+      "registration": "2,060.25",
+      "renewal": "2,060.25",
+      "transfer": "2,060.25",
+      "coupons": []
+    },
+    "hiv": {
+      "registration": "184.87",
+      "renewal": "184.87",
+      "transfer": "184.86",
+      "coupons": []
+    },
+    "click": {
+      "registration": "2.06",
+      "renewal": "10.81",
+      "transfer": "10.81",
+      "coupons": []
+    },
+    "gift": {
+      "registration": "16.58",
+      "renewal": "16.58",
+      "transfer": "16.58",
+      "coupons": []
+    },
+    "link": {
+      "registration": "7.72",
+      "renewal": "7.72",
+      "transfer": "7.72",
+      "coupons": []
+    },
+    "property": {
+      "registration": "18.02",
+      "renewal": "103.50",
+      "transfer": "103.50",
+      "coupons": []
+    },
+    "sexy": {
+      "registration": "2,575.18",
+      "renewal": "2,575.18",
+      "transfer": "2,575.18",
+      "coupons": []
+    },
+    "love": {
+      "registration": "8.75",
+      "renewal": "23.17",
+      "transfer": "23.17",
+      "coupons": []
+    },
+    "hiphop": {
+      "registration": "21.11",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "music": {
+      "registration": "38.62",
+      "renewal": "38.62",
+      "transfer": "38.62",
+      "coupons": []
+    },
+    "juegos": {
+      "registration": "309.47",
+      "renewal": "309.47",
+      "transfer": "309.47",
+      "coupons": []
+    },
+    "lc": {
+      "registration": "19.88",
+      "renewal": "19.88",
+      "transfer": "19.88",
+      "coupons": []
+    },
+    "com.lc": {
+      "registration": "14.73",
+      "renewal": "14.73",
+      "transfer": "14.73",
+      "coupons": []
+    },
+    "net.lc": {
+      "registration": "14.73",
+      "renewal": "14.73",
+      "transfer": "14.73",
+      "coupons": []
+    },
+    "org.lc": {
+      "registration": "14.73",
+      "renewal": "14.73",
+      "transfer": "14.73",
+      "coupons": []
+    },
+    "co.lc": {
+      "registration": "14.73",
+      "renewal": "14.73",
+      "transfer": "14.73",
+      "coupons": []
+    },
+    "l.lc": {
+      "registration": "14.73",
+      "renewal": "14.73",
+      "transfer": "14.73",
+      "coupons": []
+    },
+    "p.lc": {
+      "registration": "14.73",
+      "renewal": "14.73",
+      "transfer": "14.73",
+      "coupons": []
+    },
+    "ag": {
+      "registration": "78.58",
+      "renewal": "78.58",
+      "transfer": "78.58",
+      "coupons": []
+    },
+    "com.ag": {
+      "registration": "52.83",
+      "renewal": "52.83",
+      "transfer": "52.83",
+      "coupons": []
+    },
+    "net.ag": {
+      "registration": "52.83",
+      "renewal": "52.83",
+      "transfer": "52.83",
+      "coupons": []
+    },
+    "org.ag": {
+      "registration": "52.83",
+      "renewal": "52.83",
+      "transfer": "52.83",
+      "coupons": []
+    },
+    "co.ag": {
+      "registration": "52.83",
+      "renewal": "52.83",
+      "transfer": "52.83",
+      "coupons": []
+    },
+    "nom.ag": {
+      "registration": "52.83",
+      "renewal": "52.83",
+      "transfer": "52.83",
+      "coupons": []
+    },
+    "mn": {
+      "registration": "42.53",
+      "renewal": "42.53",
+      "transfer": "42.53",
+      "coupons": []
+    },
+    "mu": {
+      "registration": "52.83",
+      "renewal": "52.83",
+      "transfer": "52.83",
+      "coupons": []
+    },
+    "bz": {
+      "registration": "16.79",
+      "renewal": "16.79",
+      "transfer": "16.79",
+      "coupons": []
+    },
+    "co.bz": {
+      "registration": "19.19",
+      "renewal": "19.19",
+      "transfer": "19.19",
+      "coupons": []
+    },
+    "com.bz": {
+      "registration": "19.19",
+      "renewal": "19.19",
+      "transfer": "19.19",
+      "coupons": []
+    },
+    "net.bz": {
+      "registration": "19.19",
+      "renewal": "19.19",
+      "transfer": "19.19",
+      "coupons": []
+    },
+    "org.bz": {
+      "registration": "19.19",
+      "renewal": "19.19",
+      "transfer": "19.19",
+      "coupons": []
+    },
+    "sc": {
+      "registration": "88.38",
+      "renewal": "88.38",
+      "transfer": "85.99",
+      "coupons": []
+    },
+    "com.sc": {
+      "registration": "83.18",
+      "renewal": "83.18",
+      "transfer": "83.18",
+      "coupons": []
+    },
+    "org.sc": {
+      "registration": "83.18",
+      "renewal": "83.18",
+      "transfer": "83.18",
+      "coupons": []
+    },
+    "vc": {
+      "registration": "26.06",
+      "renewal": "26.06",
+      "transfer": "26.06",
+      "coupons": []
+    },
+    "com.vc": {
+      "registration": "26.06",
+      "renewal": "26.06",
+      "transfer": "26.06",
+      "coupons": []
+    },
+    "net.vc": {
+      "registration": "27.98",
+      "renewal": "28.98",
+      "transfer": "27.98",
+      "coupons": []
+    },
+    "org.vc": {
+      "registration": "26.06",
+      "renewal": "26.06",
+      "transfer": "26.06",
+      "coupons": []
+    },
+    "pr": {
+      "registration": "1,039.98",
+      "renewal": "1,039.98",
+      "transfer": "1,039.98",
+      "coupons": []
+    },
+    "com.pr": {
+      "registration": "103.98",
+      "renewal": "51.98",
+      "transfer": "51.98",
+      "coupons": []
+    },
+    "net.pr": {
+      "registration": "103.98",
+      "renewal": "51.98",
+      "transfer": "51.98",
+      "coupons": []
+    },
+    "org.pr": {
+      "registration": "103.98",
+      "renewal": "51.98",
+      "transfer": "51.98",
+      "coupons": []
+    },
+    "pro.pr": {
+      "registration": "103.98",
+      "renewal": "51.98",
+      "transfer": "51.98",
+      "coupons": []
+    },
+    "biz.pr": {
+      "registration": "103.98",
+      "renewal": "51.98",
+      "transfer": "51.98",
+      "coupons": []
+    },
+    "info.pr": {
+      "registration": "103.98",
+      "renewal": "51.98",
+      "transfer": "51.98",
+      "coupons": []
+    },
+    "name.pr": {
+      "registration": "103.98",
+      "renewal": "51.98",
+      "transfer": "51.98",
+      "coupons": []
+    },
+    "isla.pr": {
+      "registration": "7.47",
+      "renewal": "7.47",
+      "transfer": "7.47",
+      "coupons": []
+    },
+    "rich": {
+      "registration": "78.99",
+      "renewal": "1,872.71",
+      "transfer": "1,802.78",
+      "coupons": []
+    },
+    "onl": {
+      "registration": "3.09",
+      "renewal": "12.92",
+      "transfer": "13.18",
+      "coupons": []
+    },
+    "watches": {
+      "registration": "52.01",
+      "renewal": "257.98",
+      "transfer": "257.98",
+      "coupons": []
+    },
+    "bet": {
+      "registration": "8.03",
+      "renewal": "17.82",
+      "transfer": "17.82",
+      "coupons": []
+    },
+    "lotto": {
+      "registration": "1,390.83",
+      "renewal": "1,390.83",
+      "transfer": "1,390.83",
+      "coupons": []
+    },
+    "shiksha": {
+      "registration": "10.81",
+      "renewal": "14.06",
+      "transfer": "14.06",
+      "coupons": []
+    },
+    "xn--5tzm5g": {
+      "registration": "11.84",
+      "renewal": "11.84",
+      "transfer": "11.84",
+      "coupons": []
+    },
+    "xn--6frz82g": {
+      "registration": "13.90",
+      "renewal": "13.90",
+      "transfer": "13.90",
+      "coupons": []
+    },
+    "global": {
+      "registration": "31.41",
+      "renewal": "60.25",
+      "transfer": "60.25",
+      "coupons": []
+    },
+    "broker": {
+      "registration": "10.81",
+      "renewal": "23.17",
+      "transfer": "23.17",
+      "coupons": []
+    },
+    "forex": {
+      "registration": "10.81",
+      "renewal": "31.41",
+      "transfer": "31.41",
+      "coupons": []
+    },
+    "markets": {
+      "registration": "5.66",
+      "renewal": "11.84",
+      "transfer": "11.84",
+      "coupons": []
+    },
+    "trading": {
+      "registration": "13.90",
+      "renewal": "13.90",
+      "transfer": "13.90",
+      "coupons": []
+    },
+    "travel": {
+      "registration": "21.11",
+      "renewal": "100.16",
+      "transfer": "98.35",
+      "coupons": []
+    },
+    "contact": {
+      "registration": "9.78",
+      "renewal": "9.78",
+      "transfer": "9.78",
+      "coupons": []
+    },
+    "xn--fjq720a": {
+      "registration": "69.52",
+      "renewal": "69.52",
+      "transfer": "69.52",
+      "coupons": []
+    },
+    "xn--vhquv": {
+      "registration": "69.52",
+      "renewal": "69.52",
+      "transfer": "69.52",
+      "coupons": []
+    },
+    "xn--czrs0t": {
+      "registration": "37.59",
+      "renewal": "37.59",
+      "transfer": "37.59",
+      "coupons": []
+    },
+    "xn--unup4y": {
+      "registration": "69.52",
+      "renewal": "69.52",
+      "transfer": "69.52",
+      "coupons": []
+    },
+    "reise": {
+      "registration": "68.49",
+      "renewal": "68.49",
+      "transfer": "68.49",
+      "coupons": []
+    },
+    "hospital": {
+      "registration": "42.74",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "soccer": {
+      "registration": "10.81",
+      "renewal": "16.99",
+      "transfer": "16.99",
+      "coupons": []
+    },
+    "mba": {
+      "registration": "10.81",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "gmbh": {
+      "registration": "26.26",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "jetzt": {
+      "registration": "5.66",
+      "renewal": "14.93",
+      "transfer": "14.93",
+      "coupons": []
+    },
+    "fan": {
+      "registration": "6.69",
+      "renewal": "36.56",
+      "transfer": "36.56",
+      "coupons": []
+    },
+    "irish": {
+      "registration": "5.66",
+      "renewal": "14.93",
+      "transfer": "14.93",
+      "coupons": []
+    },
+    "movie": {
+      "registration": "36.56",
+      "renewal": "221.94",
+      "transfer": "221.94",
+      "coupons": []
+    },
+    "fyi": {
+      "registration": "5.66",
+      "renewal": "5.66",
+      "transfer": "5.66",
+      "coupons": []
+    },
+    "coupons": {
+      "registration": "2.57",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "ltd": {
+      "registration": "5.66",
+      "renewal": "20.08",
+      "transfer": "20.08",
+      "coupons": []
+    },
+    "doctor": {
+      "registration": "8.24",
+      "renewal": "82.90",
+      "transfer": "82.90",
+      "coupons": []
+    },
+    "shopping": {
+      "registration": "8.24",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "salon": {
+      "registration": "8.24",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "group": {
+      "registration": "6.18",
+      "renewal": "14.93",
+      "transfer": "14.93",
+      "coupons": []
+    },
+    "wine": {
+      "registration": "5.66",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "vin": {
+      "registration": "6.69",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "ventures": {
+      "registration": "10.81",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "camera": {
+      "registration": "11.84",
+      "renewal": "41.71",
+      "transfer": "41.71",
+      "coupons": []
+    },
+    "clothing": {
+      "registration": "10.81",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "lighting": {
+      "registration": "8.24",
+      "renewal": "18.02",
+      "transfer": "18.02",
+      "coupons": []
+    },
+    "singles": {
+      "registration": "7.21",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "voyage": {
+      "registration": "5.66",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "guru": {
+      "registration": "2.57",
+      "renewal": "28.32",
+      "transfer": "28.32",
+      "coupons": []
+    },
+    "equipment": {
+      "registration": "10.81",
+      "renewal": "16.99",
+      "transfer": "16.99",
+      "coupons": []
+    },
+    "holdings": {
+      "registration": "43.77",
+      "renewal": "43.77",
+      "transfer": "43.77",
+      "coupons": []
+    },
+    "bike": {
+      "registration": "8.24",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "estate": {
+      "registration": "8.24",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "contractors": {
+      "registration": "5.66",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "plumbing": {
+      "registration": "8.24",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "land": {
+      "registration": "10.81",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "guide": {
+      "registration": "6.18",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "construction": {
+      "registration": "8.75",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "graphics": {
+      "registration": "18.02",
+      "renewal": "18.02",
+      "transfer": "18.02",
+      "coupons": []
+    },
+    "technology": {
+      "registration": "6.69",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "gallery": {
+      "registration": "18.02",
+      "renewal": "18.02",
+      "transfer": "18.02",
+      "coupons": []
+    },
+    "email": {
+      "registration": "3.60",
+      "renewal": "20.08",
+      "transfer": "20.08",
+      "coupons": []
+    },
+    "cab": {
+      "registration": "10.81",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "business": {
+      "registration": "2.57",
+      "renewal": "9.78",
+      "transfer": "9.78",
+      "coupons": []
+    },
+    "center": {
+      "registration": "4.63",
+      "renewal": "18.02",
+      "transfer": "18.02",
+      "coupons": []
+    },
+    "management": {
+      "registration": "8.24",
+      "renewal": "16.99",
+      "transfer": "16.99",
+      "coupons": []
+    },
+    "systems": {
+      "registration": "11.84",
+      "renewal": "22.14",
+      "transfer": "22.14",
+      "coupons": []
+    },
+    "solutions": {
+      "registration": "6.18",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "careers": {
+      "registration": "26.26",
+      "renewal": "47.89",
+      "transfer": "47.89",
+      "coupons": []
+    },
+    "diamonds": {
+      "registration": "39.65",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "photography": {
+      "registration": "5.66",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "academy": {
+      "registration": "11.84",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "enterprises": {
+      "registration": "5.66",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "company": {
+      "registration": "2.57",
+      "renewal": "10.81",
+      "transfer": "10.81",
+      "coupons": []
+    },
+    "directory": {
+      "registration": "4.63",
+      "renewal": "18.02",
+      "transfer": "18.02",
+      "coupons": []
+    },
+    "today": {
+      "registration": "2.06",
+      "renewal": "19.05",
+      "transfer": "19.05",
+      "coupons": []
+    },
+    "kitchen": {
+      "registration": "8.24",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "camp": {
+      "registration": "4.63",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "tips": {
+      "registration": "8.24",
+      "renewal": "22.14",
+      "transfer": "22.14",
+      "coupons": []
+    },
+    "shoes": {
+      "registration": "21.11",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "solar": {
+      "registration": "5.66",
+      "renewal": "41.71",
+      "transfer": "41.71",
+      "coupons": []
+    },
+    "marketing": {
+      "registration": "5.66",
+      "renewal": "29.35",
+      "transfer": "29.35",
+      "coupons": []
+    },
+    "viajes": {
+      "registration": "36.56",
+      "renewal": "36.56",
+      "transfer": "36.56",
+      "coupons": []
+    },
+    "limo": {
+      "registration": "10.81",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "domains": {
+      "registration": "10.81",
+      "renewal": "29.35",
+      "transfer": "29.35",
+      "coupons": []
+    },
+    "computer": {
+      "registration": "15.96",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "recipes": {
+      "registration": "5.15",
+      "renewal": "43.77",
+      "transfer": "43.77",
+      "coupons": []
+    },
+    "support": {
+      "registration": "6.69",
+      "renewal": "19.05",
+      "transfer": "19.05",
+      "coupons": []
+    },
+    "photos": {
+      "registration": "8.24",
+      "renewal": "18.02",
+      "transfer": "18.02",
+      "coupons": []
+    },
+    "coffee": {
+      "registration": "12.87",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "builders": {
+      "registration": "4.63",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "international": {
+      "registration": "8.24",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "training": {
+      "registration": "6.69",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "institute": {
+      "registration": "5.66",
+      "renewal": "19.05",
+      "transfer": "19.05",
+      "coupons": []
+    },
+    "education": {
+      "registration": "21.11",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "holiday": {
+      "registration": "5.66",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "farm": {
+      "registration": "7.72",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "florist": {
+      "registration": "8.24",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "house": {
+      "registration": "11.84",
+      "renewal": "29.35",
+      "transfer": "29.35",
+      "coupons": []
+    },
+    "glass": {
+      "registration": "42.74",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "repair": {
+      "registration": "5.66",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "codes": {
+      "registration": "6.69",
+      "renewal": "43.77",
+      "transfer": "43.77",
+      "coupons": []
+    },
+    "agency": {
+      "registration": "2.57",
+      "renewal": "19.05",
+      "transfer": "19.05",
+      "coupons": []
+    },
+    "zone": {
+      "registration": "8.24",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "cool": {
+      "registration": "5.66",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "watch": {
+      "registration": "3.09",
+      "renewal": "29.35",
+      "transfer": "29.35",
+      "coupons": []
+    },
+    "cheap": {
+      "registration": "5.66",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "works": {
+      "registration": "4.63",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "network": {
+      "registration": "4.63",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "bargains": {
+      "registration": "11.84",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "tienda": {
+      "registration": "5.66",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "boutique": {
+      "registration": "3.09",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "expert": {
+      "registration": "6.69",
+      "renewal": "43.77",
+      "transfer": "43.77",
+      "coupons": []
+    },
+    "tools": {
+      "registration": "9.78",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "cards": {
+      "registration": "2.57",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "catering": {
+      "registration": "26.26",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "cleaning": {
+      "registration": "43.77",
+      "renewal": "43.77",
+      "transfer": "43.77",
+      "coupons": []
+    },
+    "community": {
+      "registration": "10.81",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "condos": {
+      "registration": "39.65",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "cruises": {
+      "registration": "8.24",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "dating": {
+      "registration": "11.84",
+      "renewal": "43.77",
+      "transfer": "43.77",
+      "coupons": []
+    },
+    "events": {
+      "registration": "11.84",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "exposed": {
+      "registration": "14.93",
+      "renewal": "14.93",
+      "transfer": "14.93",
+      "coupons": []
+    },
+    "flights": {
+      "registration": "31.41",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "industries": {
+      "registration": "9.53",
+      "renewal": "29.35",
+      "transfer": "29.35",
+      "coupons": []
+    },
+    "maison": {
+      "registration": "10.81",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "partners": {
+      "registration": "7.72",
+      "renewal": "47.89",
+      "transfer": "47.89",
+      "coupons": []
+    },
+    "parts": {
+      "registration": "8.75",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "productions": {
+      "registration": "8.24",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "properties": {
+      "registration": "6.18",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "rentals": {
+      "registration": "8.24",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "report": {
+      "registration": "8.24",
+      "renewal": "16.99",
+      "transfer": "16.99",
+      "coupons": []
+    },
+    "vacations": {
+      "registration": "5.66",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "villas": {
+      "registration": "10.81",
+      "renewal": "37.08",
+      "transfer": "37.08",
+      "coupons": []
+    },
+    "vision": {
+      "registration": "5.66",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "fish": {
+      "registration": "10.81",
+      "renewal": "29.35",
+      "transfer": "29.35",
+      "coupons": []
+    },
+    "supply": {
+      "registration": "16.99",
+      "renewal": "16.99",
+      "transfer": "16.99",
+      "coupons": []
+    },
+    "supplies": {
+      "registration": "16.99",
+      "renewal": "16.99",
+      "transfer": "16.99",
+      "coupons": []
+    },
+    "church": {
+      "registration": "6.69",
+      "renewal": "29.35",
+      "transfer": "29.35",
+      "coupons": []
+    },
+    "life": {
+      "registration": "2.06",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "accountants": {
+      "registration": "23.17",
+      "renewal": "77.75",
+      "transfer": "77.75",
+      "coupons": []
+    },
+    "associates": {
+      "registration": "11.84",
+      "renewal": "27.29",
+      "transfer": "27.29",
+      "coupons": []
+    },
+    "capital": {
+      "registration": "5.66",
+      "renewal": "47.89",
+      "transfer": "47.89",
+      "coupons": []
+    },
+    "care": {
+      "registration": "15.96",
+      "renewal": "28.32",
+      "transfer": "28.32",
+      "coupons": []
+    },
+    "cash": {
+      "registration": "6.69",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "claims": {
+      "registration": "10.81",
+      "renewal": "47.89",
+      "transfer": "47.89",
+      "coupons": []
+    },
+    "clinic": {
+      "registration": "10.81",
+      "renewal": "43.77",
+      "transfer": "43.77",
+      "coupons": []
+    },
+    "credit": {
+      "registration": "6.69",
+      "renewal": "77.75",
+      "transfer": "77.75",
+      "coupons": []
+    },
+    "creditcard": {
+      "registration": "5.66",
+      "renewal": "129.25",
+      "transfer": "129.25",
+      "coupons": []
+    },
+    "dental": {
+      "registration": "46.86",
+      "renewal": "46.86",
+      "transfer": "46.86",
+      "coupons": []
+    },
+    "digital": {
+      "registration": "1.54",
+      "renewal": "28.32",
+      "transfer": "28.32",
+      "coupons": []
+    },
+    "discount": {
+      "registration": "4.63",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "engineering": {
+      "registration": "6.69",
+      "renewal": "43.77",
+      "transfer": "43.77",
+      "coupons": []
+    },
+    "exchange": {
+      "registration": "6.18",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "fail": {
+      "registration": "8.24",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "finance": {
+      "registration": "8.75",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "financial": {
+      "registration": "15.96",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "fitness": {
+      "registration": "5.66",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "fund": {
+      "registration": "8.75",
+      "renewal": "43.77",
+      "transfer": "43.77",
+      "coupons": []
+    },
+    "gripe": {
+      "registration": "22.66",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "healthcare": {
+      "registration": "47.89",
+      "renewal": "47.89",
+      "transfer": "47.89",
+      "coupons": []
+    },
+    "investments": {
+      "registration": "8.24",
+      "renewal": "82.90",
+      "transfer": "82.90",
+      "coupons": []
+    },
+    "lease": {
+      "registration": "8.24",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "limited": {
+      "registration": "8.24",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "loans": {
+      "registration": "10.81",
+      "renewal": "77.75",
+      "transfer": "77.75",
+      "coupons": []
+    },
+    "media": {
+      "registration": "4.63",
+      "renewal": "29.35",
+      "transfer": "29.35",
+      "coupons": []
+    },
+    "pictures": {
+      "registration": "5.66",
+      "renewal": "9.78",
+      "transfer": "9.78",
+      "coupons": []
+    },
+    "reisen": {
+      "registration": "14.93",
+      "renewal": "14.93",
+      "transfer": "14.93",
+      "coupons": []
+    },
+    "schule": {
+      "registration": "10.81",
+      "renewal": "16.99",
+      "transfer": "16.99",
+      "coupons": []
+    },
+    "surgery": {
+      "registration": "37.08",
+      "renewal": "37.08",
+      "transfer": "37.08",
+      "coupons": []
+    },
+    "tax": {
+      "registration": "8.24",
+      "renewal": "47.89",
+      "transfer": "47.89",
+      "coupons": []
+    },
+    "town": {
+      "registration": "5.66",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "toys": {
+      "registration": "10.81",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "university": {
+      "registration": "10.81",
+      "renewal": "41.71",
+      "transfer": "41.71",
+      "coupons": []
+    },
+    "wtf": {
+      "registration": "3.09",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "services": {
+      "registration": "6.69",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "furniture": {
+      "registration": "21.11",
+      "renewal": "82.90",
+      "transfer": "82.90",
+      "coupons": []
+    },
+    "gratis": {
+      "registration": "14.93",
+      "renewal": "14.93",
+      "transfer": "14.93",
+      "coupons": []
+    },
+    "insure": {
+      "registration": "5.66",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "direct": {
+      "registration": "10.81",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "place": {
+      "registration": "14.93",
+      "renewal": "14.93",
+      "transfer": "14.93",
+      "coupons": []
+    },
+    "city": {
+      "registration": "4.63",
+      "renewal": "18.02",
+      "transfer": "18.02",
+      "coupons": []
+    },
+    "deals": {
+      "registration": "3.60",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "world": {
+      "registration": "2.06",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "pizza": {
+      "registration": "10.81",
+      "renewal": "43.77",
+      "transfer": "43.77",
+      "coupons": []
+    },
+    "restaurant": {
+      "registration": "10.81",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "gifts": {
+      "registration": "5.66",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "sarl": {
+      "registration": "22.66",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "immo": {
+      "registration": "5.66",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "delivery": {
+      "registration": "5.15",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "energy": {
+      "registration": "10.30",
+      "renewal": "77.75",
+      "transfer": "77.75",
+      "coupons": []
+    },
+    "memorial": {
+      "registration": "37.08",
+      "renewal": "37.08",
+      "transfer": "37.08",
+      "coupons": []
+    },
+    "legal": {
+      "registration": "5.66",
+      "renewal": "46.86",
+      "transfer": "46.86",
+      "coupons": []
+    },
+    "money": {
+      "registration": "8.24",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "coach": {
+      "registration": "10.81",
+      "renewal": "43.77",
+      "transfer": "43.77",
+      "coupons": []
+    },
+    "tires": {
+      "registration": "8.24",
+      "renewal": "72.61",
+      "transfer": "72.61",
+      "coupons": []
+    },
+    "bingo": {
+      "registration": "8.24",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "chat": {
+      "registration": "5.66",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "dog": {
+      "registration": "3.60",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "style": {
+      "registration": "7.21",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "tennis": {
+      "registration": "44.80",
+      "renewal": "44.80",
+      "transfer": "44.80",
+      "coupons": []
+    },
+    "apartments": {
+      "registration": "10.81",
+      "renewal": "41.71",
+      "transfer": "41.71",
+      "coupons": []
+    },
+    "casino": {
+      "registration": "9.78",
+      "renewal": "113.80",
+      "transfer": "113.80",
+      "coupons": []
+    },
+    "football": {
+      "registration": "10.81",
+      "renewal": "18.02",
+      "transfer": "18.02",
+      "coupons": []
+    },
+    "golf": {
+      "registration": "4.63",
+      "renewal": "43.77",
+      "transfer": "43.77",
+      "coupons": []
+    },
+    "school": {
+      "registration": "5.66",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "gold": {
+      "registration": "5.66",
+      "renewal": "77.75",
+      "transfer": "77.75",
+      "coupons": []
+    },
+    "plus": {
+      "registration": "8.24",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "tours": {
+      "registration": "5.66",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "cafe": {
+      "registration": "4.63",
+      "renewal": "29.35",
+      "transfer": "29.35",
+      "coupons": []
+    },
+    "express": {
+      "registration": "9.27",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "jewelry": {
+      "registration": "10.81",
+      "renewal": "43.77",
+      "transfer": "43.77",
+      "coupons": []
+    },
+    "show": {
+      "registration": "9.78",
+      "renewal": "29.35",
+      "transfer": "29.35",
+      "coupons": []
+    },
+    "team": {
+      "registration": "3.60",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "hockey": {
+      "registration": "8.24",
+      "renewal": "39.65",
+      "transfer": "39.65",
+      "coupons": []
+    },
+    "run": {
+      "registration": "3.09",
+      "renewal": "18.02",
+      "transfer": "18.02",
+      "coupons": []
+    },
+    "taxi": {
+      "registration": "6.18",
+      "renewal": "43.77",
+      "transfer": "43.77",
+      "coupons": []
+    },
+    "theater": {
+      "registration": "10.81",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "games": {
+      "registration": "10.81",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "family": {
+      "registration": "10.81",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "democrat": {
+      "registration": "5.66",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "immobilien": {
+      "registration": "8.24",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "ninja": {
+      "registration": "5.66",
+      "renewal": "22.14",
+      "transfer": "22.14",
+      "coupons": []
+    },
+    "kaufen": {
+      "registration": "5.66",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "moda": {
+      "registration": "10.81",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "social": {
+      "registration": "6.69",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "dance": {
+      "registration": "9.78",
+      "renewal": "19.05",
+      "transfer": "19.05",
+      "coupons": []
+    },
+    "pub": {
+      "registration": "26.26",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "actor": {
+      "registration": "10.81",
+      "renewal": "30.38",
+      "transfer": "30.38",
+      "coupons": []
+    },
+    "republican": {
+      "registration": "3.60",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "futbol": {
+      "registration": "9.78",
+      "renewal": "9.78",
+      "transfer": "9.78",
+      "coupons": []
+    },
+    "reviews": {
+      "registration": "4.63",
+      "renewal": "41.71",
+      "transfer": "41.71",
+      "coupons": []
+    },
+    "consulting": {
+      "registration": "14.42",
+      "renewal": "31.41",
+      "transfer": "31.41",
+      "coupons": []
+    },
+    "haus": {
+      "registration": "10.81",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "rocks": {
+      "registration": "7.21",
+      "renewal": "13.90",
+      "transfer": "13.90",
+      "coupons": []
+    },
+    "rip": {
+      "registration": "4.63",
+      "renewal": "15.96",
+      "transfer": "15.96",
+      "coupons": []
+    },
+    "auction": {
+      "registration": "3.09",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "forsale": {
+      "registration": "10.81",
+      "renewal": "24.20",
+      "transfer": "24.20",
+      "coupons": []
+    },
+    "band": {
+      "registration": "15.96",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "sale": {
+      "registration": "3.60",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "video": {
+      "registration": "8.24",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "news": {
+      "registration": "5.66",
+      "renewal": "22.14",
+      "transfer": "22.14",
+      "coupons": []
+    },
+    "airforce": {
+      "registration": "26.26",
+      "renewal": "26.26",
+      "transfer": "25.29",
+      "coupons": []
+    },
+    "army": {
+      "registration": "10.81",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "navy": {
+      "registration": "22.66",
+      "renewal": "22.66",
+      "transfer": "22.66",
+      "coupons": []
+    },
+    "engineer": {
+      "registration": "7.72",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "rehab": {
+      "registration": "8.24",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "attorney": {
+      "registration": "41.71",
+      "renewal": "41.71",
+      "transfer": "41.71",
+      "coupons": []
+    },
+    "degree": {
+      "registration": "8.24",
+      "renewal": "33.47",
+      "transfer": "33.47",
+      "coupons": []
+    },
+    "dentist": {
+      "registration": "41.71",
+      "renewal": "41.71",
+      "transfer": "41.71",
+      "coupons": []
+    },
+    "lawyer": {
+      "registration": "41.71",
+      "renewal": "41.71",
+      "transfer": "41.71",
+      "coupons": []
+    },
+    "market": {
+      "registration": "29.35",
+      "renewal": "29.35",
+      "transfer": "29.35",
+      "coupons": []
+    },
+    "mortgage": {
+      "registration": "8.24",
+      "renewal": "41.71",
+      "transfer": "41.71",
+      "coupons": []
+    },
+    "software": {
+      "registration": "10.81",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "vet": {
+      "registration": "28.32",
+      "renewal": "28.32",
+      "transfer": "28.32",
+      "coupons": []
+    },
+    "live": {
+      "registration": "2.57",
+      "renewal": "22.14",
+      "transfer": "22.14",
+      "coupons": []
+    },
+    "studio": {
+      "registration": "11.84",
+      "renewal": "25.23",
+      "transfer": "25.23",
+      "coupons": []
+    },
+    "llc": {
+      "registration": "10.81",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "archi": {
+      "registration": "13.39",
+      "renewal": "62.31",
+      "transfer": "62.31",
+      "coupons": []
+    },
+    "ski": {
+      "registration": "21.11",
+      "renewal": "42.74",
+      "transfer": "42.74",
+      "coupons": []
+    },
+    "info": {
+      "registration": "2.57",
+      "renewal": "20.08",
+      "transfer": "20.08",
+      "coupons": []
+    },
+    "lgbt": {
+      "registration": "10.81",
+      "renewal": "44.80",
+      "transfer": "44.80",
+      "coupons": []
+    },
+    "pro": {
+      "registration": "3.09",
+      "renewal": "20.08",
+      "transfer": "20.08",
+      "coupons": []
+    },
+    "green": {
+      "registration": "6.69",
+      "renewal": "54.58",
+      "transfer": "54.58",
+      "coupons": []
+    },
+    "bio": {
+      "registration": "5.66",
+      "renewal": "54.58",
+      "transfer": "54.58",
+      "coupons": []
+    },
+    "organic": {
+      "registration": "10.81",
+      "renewal": "59.17",
+      "transfer": "57.16",
+      "coupons": []
+    },
+    "red": {
+      "registration": "8.24",
+      "renewal": "15.96",
+      "transfer": "15.96",
+      "coupons": []
+    },
+    "pink": {
+      "registration": "8.24",
+      "renewal": "15.96",
+      "transfer": "15.96",
+      "coupons": []
+    },
+    "blue": {
+      "registration": "11.84",
+      "renewal": "15.96",
+      "transfer": "15.96",
+      "coupons": []
+    },
+    "black": {
+      "registration": "15.96",
+      "renewal": "44.28",
+      "transfer": "44.28",
+      "coupons": []
+    },
+    "kim": {
+      "registration": "5.66",
+      "renewal": "15.96",
+      "transfer": "15.96",
+      "coupons": []
+    },
+    "poker": {
+      "registration": "8.24",
+      "renewal": "44.28",
+      "transfer": "44.28",
+      "coupons": []
+    },
+    "promo": {
+      "registration": "10.81",
+      "renewal": "16.99",
+      "transfer": "16.99",
+      "coupons": []
+    },
+    "pet": {
+      "registration": "6.69",
+      "renewal": "16.99",
+      "transfer": "16.99",
+      "coupons": []
+    },
+    "mobi": {
+      "registration": "4.12",
+      "renewal": "31.41",
+      "transfer": "31.41",
+      "coupons": []
+    },
+    "vote": {
+      "registration": "21.11",
+      "renewal": "62.31",
+      "transfer": "62.31",
+      "coupons": []
+    },
+    "voto": {
+      "registration": "10.81",
+      "renewal": "56.13",
+      "transfer": "56.13",
+      "coupons": []
+    },
+    "ltda": {
+      "registration": "29.35",
+      "renewal": "30.16",
+      "transfer": "30.16",
+      "coupons": []
+    },
+    "srl": {
+      "registration": "27.32",
+      "renewal": "27.32",
+      "transfer": "27.32",
+      "coupons": []
+    },
+    "me": {
+      "registration": "7.58",
+      "renewal": "17.27",
+      "transfer": "17.27",
+      "coupons": []
+    },
+    "vegas": {
+      "registration": "15.96",
+      "renewal": "43.60",
+      "transfer": "42.49",
+      "coupons": []
+    },
+    "asia": {
+      "registration": "2.06",
+      "renewal": "11.84",
+      "transfer": "11.84",
+      "coupons": []
+    },
+    "spa": {
+      "registration": "21.61",
+      "renewal": "21.61",
+      "transfer": "21.61",
+      "coupons": []
+    },
+    "kids": {
+      "registration": "9.78",
+      "renewal": "19.05",
+      "transfer": "19.05",
+      "coupons": []
+    },
+    "ai": {
+      "registration": "72.40",
+      "renewal": "72.40",
+      "transfer": "144.49",
+      "coupons": []
+    },
+    "off.ai": {
+      "registration": "72.40",
+      "renewal": "72.40",
+      "transfer": "144.49",
+      "coupons": []
+    },
+    "com.ai": {
+      "registration": "72.40",
+      "renewal": "72.40",
+      "transfer": "144.49",
+      "coupons": []
+    },
+    "net.ai": {
+      "registration": "72.40",
+      "renewal": "72.40",
+      "transfer": "144.49",
+      "coupons": []
+    },
+    "org.ai": {
+      "registration": "72.40",
+      "renewal": "72.40",
+      "transfer": "144.49",
+      "coupons": []
+    },
+    "br.com": {
+      "registration": "34.30",
+      "renewal": "34.30",
+      "transfer": "34.29",
+      "coupons": []
+    },
+    "ae.org": {
+      "registration": "15.98",
+      "renewal": "16.26",
+      "transfer": "15.98",
+      "coupons": []
+    },
+    "cn.com": {
+      "registration": "14.73",
+      "renewal": "31.20",
+      "transfer": "31.20",
+      "coupons": []
+    },
+    "co.com": {
+      "registration": "20.91",
+      "renewal": "20.91",
+      "transfer": "20.91",
+      "coupons": []
+    },
+    "com.de": {
+      "registration": "4.64",
+      "renewal": "4.64",
+      "transfer": "4.64",
+      "coupons": []
+    },
+    "com.se": {
+      "registration": "8.68",
+      "renewal": "8.68",
+      "transfer": "8.68",
+      "coupons": []
+    },
+    "de.com": {
+      "registration": "15.38",
+      "renewal": "15.54",
+      "transfer": "15.54",
+      "coupons": []
+    },
+    "eu.com": {
+      "registration": "15.54",
+      "renewal": "15.54",
+      "transfer": "15.54",
+      "coupons": []
+    },
+    "gb.net": {
+      "registration": "7.21",
+      "renewal": "7.21",
+      "transfer": "7.21",
+      "coupons": []
+    },
+    "gr.com": {
+      "registration": "12.97",
+      "renewal": "13.05",
+      "transfer": "12.97",
+      "coupons": []
+    },
+    "hu.net": {
+      "registration": "28.03",
+      "renewal": "28.03",
+      "transfer": "28.03",
+      "coupons": []
+    },
+    "in.net": {
+      "registration": "6.49",
+      "renewal": "6.49",
+      "transfer": "6.49",
+      "coupons": []
+    },
+    "jp.net": {
+      "registration": "7.52",
+      "renewal": "7.52",
+      "transfer": "7.52",
+      "coupons": []
+    },
+    "jpn.com": {
+      "registration": "31.20",
+      "renewal": "31.20",
+      "transfer": "31.20",
+      "coupons": []
+    },
+    "mex.com": {
+      "registration": "10.61",
+      "renewal": "10.61",
+      "transfer": "10.61",
+      "coupons": []
+    },
+    "ru.com": {
+      "registration": "143.46",
+      "renewal": "143.46",
+      "transfer": "143.46",
+      "coupons": []
+    },
+    "sa.com": {
+      "registration": "308.24",
+      "renewal": "308.24",
+      "transfer": "308.24",
+      "coupons": []
+    },
+    "se.net": {
+      "registration": "28.03",
+      "renewal": "28.40",
+      "transfer": "28.03",
+      "coupons": []
+    },
+    "uk.com": {
+      "registration": "22.75",
+      "renewal": "22.75",
+      "transfer": "22.75",
+      "coupons": []
+    },
+    "uk.net": {
+      "registration": "22.75",
+      "renewal": "22.75",
+      "transfer": "22.75",
+      "coupons": []
+    },
+    "us.com": {
+      "registration": "15.76",
+      "renewal": "15.76",
+      "transfer": "15.76",
+      "coupons": []
+    },
+    "us.org": {
+      "registration": "15.76",
+      "renewal": "15.76",
+      "transfer": "15.76",
+      "coupons": []
+    },
+    "za.com": {
+      "registration": "308.24",
+      "renewal": "308.24",
+      "transfer": "308.24",
+      "coupons": []
+    },
+    "nl": {
+      "registration": "7.72",
+      "renewal": "7.72",
+      "transfer": "7.72",
+      "coupons": []
+    },
+    "ca": {
+      "registration": "8.84",
+      "renewal": "9.13",
+      "transfer": "8.84",
+      "coupons": []
+    },
+    "la": {
+      "registration": "27.34",
+      "renewal": "27.94",
+      "transfer": "27.34",
+      "coupons": []
+    },
+    "cx": {
+      "registration": "16.53",
+      "renewal": "16.53",
+      "transfer": "16.53",
+      "coupons": []
+    },
+    "am": {
+      "registration": "36.35",
+      "renewal": "36.35",
+      "transfer": "36.35",
+      "coupons": []
+    },
+    "it.com": {
+      "registration": "6.98",
+      "renewal": "31.20",
+      "transfer": "31.20",
+      "coupons": []
+    },
+    "kyoto": {
+      "registration": "40.98",
+      "renewal": "40.98",
+      "transfer": "40.98",
+      "coupons": []
+    },
+    "tokyo": {
+      "registration": "13.76",
+      "renewal": "13.76",
+      "transfer": "13.76",
+      "coupons": []
+    },
+    "nagoya": {
+      "registration": "13.76",
+      "renewal": "13.76",
+      "transfer": "13.76",
+      "coupons": []
+    },
+    "yokohama": {
+      "registration": "13.76",
+      "renewal": "13.76",
+      "transfer": "13.76",
+      "coupons": []
+    },
+    "id": {
+      "registration": "18.33",
+      "renewal": "18.33",
+      "transfer": "18.33",
+      "coupons": []
+    },
+    "io": {
+      "registration": "28.12",
+      "renewal": "46.65",
+      "transfer": "46.65",
+      "coupons": []
+    },
+    "ac": {
+      "registration": "26.06",
+      "renewal": "26.06",
+      "transfer": "26.06",
+      "coupons": []
+    },
+    "sh": {
+      "registration": "31.20",
+      "renewal": "31.20",
+      "transfer": "31.20",
+      "coupons": []
+    },
+    "cloud": {
+      "registration": "3.88",
+      "renewal": "21.11",
+      "transfer": "21.11",
+      "coupons": []
+    },
+    "observer": {
+      "registration": "9.78",
+      "renewal": "9.78",
+      "transfer": "9.78",
+      "coupons": []
+    },
+    "realty": {
+      "registration": "88.05",
+      "renewal": "288.88",
+      "transfer": "288.88",
+      "coupons": []
+    },
+    "feedback": {
+      "registration": "9.27",
+      "renewal": "309.47",
+      "transfer": "309.47",
+      "coupons": []
+    },
+    "forum": {
+      "registration": "1.54",
+      "renewal": "31.41",
+      "transfer": "31.41",
+      "coupons": []
+    },
+    "bar": {
+      "registration": "2.57",
+      "renewal": "52.01",
+      "transfer": "52.01",
+      "coupons": []
+    },
+    "rest": {
+      "registration": "1.54",
+      "renewal": "26.26",
+      "transfer": "26.26",
+      "coupons": []
+    },
+    "tm": {
+      "registration": "432.85",
+      "renewal": "432.85",
+      "transfer": "412.26",
+      "coupons": []
+    },
+    "to": {
+      "registration": "52.83",
+      "renewal": "52.83",
+      "transfer": "52.83",
+      "coupons": []
+    },
+    "cv": {
+      "registration": "2.37",
+      "renewal": "9.06",
+      "transfer": "9.06",
+      "coupons": []
+    }
+  }
+}
