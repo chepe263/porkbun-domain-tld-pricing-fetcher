@@ -1,0 +1,32 @@
+services:
+  pricing-updater:
+    build:
+      context: ./core
+      dockerfile: Dockerfile.updater
+    container_name: pricing-updater
+    environment:
+      CRON_SCHEDULE: "0 */6 * * *"
+      FORCE_REFRESH: "1"
+    volumes:
+      - pricing-data:/data
+    restart: unless-stopped
+
+  pricing-api:
+    build:
+      context: ./servers
+      dockerfile: Dockerfile
+    container_name: pricing-api
+    environment:
+      HOST: "0.0.0.0"
+      PORT: "3000"
+      PORKBUN_DATA_PATH: /data/porkbun-domains-filtered.json
+    volumes:
+      - pricing-data:/data:ro
+    ports:
+      - "3000:3000"
+    depends_on:
+      - pricing-updater
+    restart: unless-stopped
+
+volumes:
+  pricing-data:

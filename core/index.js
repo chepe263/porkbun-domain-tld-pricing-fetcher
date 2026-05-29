@@ -3,10 +3,11 @@ const fs = require('fs');
 const _ = require('lodash');
 
 const exlude_tlds = require("./tld-without-privacy.json")
+const forceRefresh = process.env.FORCE_REFRESH === '1' || process.argv.includes('--force');
 
 async function get_domain_pricing() {
   const filePath = 'porkbun-domain-pricing.json';
-  if (fs.existsSync(filePath)) {
+  if (fs.existsSync(filePath) && !forceRefresh) {
     console.log(`${filePath} already exists. Skipping fetch.`);
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     return data;

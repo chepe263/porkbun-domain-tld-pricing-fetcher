@@ -1,0 +1,34 @@
+{
+  "name": "porkbun-pricing-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Porkbun TLD pricing and recommendations",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/restServer.js",
+    "start:mcp": "node src/server.js",
+    "start:rest": "node src/restServer.js",
+    "dev": "node --watch src/restServer.js",
+    "smoke": "node src/smoke.js",
+    "pm2:start": "pm2 start ecosystem.config.cjs",
+    "pm2:restart": "pm2 restart ecosystem.config.cjs",
+    "pm2:stop": "pm2 stop ecosystem.config.cjs",
+    "pm2:delete": "pm2 delete ecosystem.config.cjs",
+    "pm2:logs": "pm2 logs",
+    "pm2:save": "pm2 save"
+  },
+  "keywords": [
+    "mcp",
+    "porkbun",
+    "domains",
+    "tld"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.0",
+    "express": "^4.21.2",
+    "helmet": "^8.1.0",
+    "pm2": "^5.4.3",
+    "zod": "^3.24.1"
+  }
+}

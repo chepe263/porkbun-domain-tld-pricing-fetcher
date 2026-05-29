@@ -1,0 +1,19 @@
+{
+  "servers": {
+    "figma": {
+      "url": "https://mcp.figma.com/mcp",
+      "type": "http"
+    },
+    "porkbun-pricing": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "${workspaceFolder}/servers/src/server.js"
+      ],
+      "env": {
+        "PORKBUN_DATA_PATH": "${workspaceFolder}/core/porkbun-domains-filtered.json"
+      }
+    }
+  },
+  "inputs": []
+}

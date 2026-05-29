@@ -20,6 +20,12 @@ This project fetches domain pricing data from the Porkbun API, processes it, and
    ```sh
    node index.js
    ```
+   Force refresh from API even if cached JSON exists:
+   ```sh
+   FORCE_REFRESH=1 node index.js
+   # or
+   node index.js --force
+   ```
 3. **Check output files**
    - `porkbun-domain-pricing.json`: Raw API data
    - `porkbun-domains-filtered.json`: Filtered and sorted domains
@@ -30,6 +36,8 @@ This project fetches domain pricing data from the Porkbun API, processes it, and
 
 ## File Overview
 - `index.js`: Main script for fetching and processing data
+- `Dockerfile.updater`: Container image for scheduled refreshes
+- `docker/updater/entrypoint.sh`: Cron entrypoint for periodic updates in Docker
 - `tld-without-privacy.json`: List of TLDs to exclude from results, taken from porkbun's checkout page
 - `porkbun-domain-pricing.json`: Raw pricing data from Porkbun
 - `porkbun-domains-filtered.json`: Final filtered and sorted domain data
